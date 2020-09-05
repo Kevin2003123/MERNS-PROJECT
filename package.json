@@ -2,8 +2,7 @@
   "name": "react",
   "version": "1.0.0",
   "engines": {
-    "node": "12.x",
-    "npm": "6.x"
+    "node": "12.x"
   },
   "description": "Social Network",
   "main": "index.js",
